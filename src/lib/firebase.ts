@@ -3,13 +3,13 @@ import { getAuth } from 'firebase/auth';
 import { getStorage } from 'firebase/storage';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBC2PFwMuZm9UV9WgG6w5bJO8WZ_oi9yl0",
-  authDomain: "test-b52ea.firebaseapp.com",
-  projectId: "test-b52ea",
-  storageBucket: "test-b52ea.appspot.com",
-  messagingSenderId: "50100957022",
-  appId: "1:50100957022:web:38ce82c2d9ebad204fe9cf",
-  measurementId: "G-Z68MLWLGB6"
+  apiKey: "AIzaSyAHP7ybbKZ7e3krAx4JLvHOUvNkDzffE_Y",
+  authDomain: "bitbot-16732.firebaseapp.com",
+  projectId: "bitbot-16732",
+  storageBucket: "bitbot-16732.appspot.com",
+  messagingSenderId: "732402188420",
+  appId: "1:732402188420:web:aaf790a441b6dc94dd02d1",
+  measurementId: "G-BF0RBLCYZR"
 };
 
 const app = initializeApp(firebaseConfig);
