@@ -1,0 +1,8 @@
+npm install
+npm run dev
+
+.
+from another tab
+C:\Users\FahimxD\Downloads\sb1-a7zs1y\ngrok.exe http 5173
+from another tab
+C:\Users\FahimxD\Downloads\final3\ngrok.exe http 5173
